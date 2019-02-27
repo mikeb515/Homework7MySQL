@@ -1,0 +1,11 @@
+a{color: purple;
+font-style: italic;}
+a:hover{text-decoration: underline; cursor: pointer;}
+a:visited{color: red}
+a:active{color:orange}
+a1{font-style: normal;
+color: black;
+background: blueviolet}
+
+
+
